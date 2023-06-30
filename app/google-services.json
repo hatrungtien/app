@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780390277468",
+    "project_id": "appepicnovels",
+    "storage_bucket": "appepicnovels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780390277468:android:009c3e63e6b7c4b35d6199",
+        "android_client_info": {
+          "package_name": "com.example.appepicnovels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780390277468-5ohqqfpl1p7oe88bsibtv8m8tcjk3g0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajONUeC7FT5u73a41GOH_yjdkep9J0-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780390277468-5ohqqfpl1p7oe88bsibtv8m8tcjk3g0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
